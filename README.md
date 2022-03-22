@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Ivans' Github Stats](https://github-readme-stats.vercel.app/api?username=Ivann74&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Ivann74/Ivann74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
